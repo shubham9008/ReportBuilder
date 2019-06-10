@@ -1,0 +1,118 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.vassarlabs.root</groupId>
+	<artifactId>root</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>studenthub-root</name>
+
+	<modules>
+		<module>proj</module>
+	</modules>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<javac.target>1.8</javac.target>
+		<javac.source>1.8</javac.source>
+
+		<!-- spring framework version -->
+		<spring-framework.version>4.3.8.RELEASE</spring-framework.version>
+
+		<!-- Logging -->
+		<logback.version>1.0.13</logback.version>
+		<slf4j.version>1.7.5</slf4j.version>
+
+		<!-- junit version -->
+		<junit.version> 4.12 </junit.version>
+
+		<!-- testng version -->
+		<testng.version> 6.10 </testng.version>
+
+		<!-- specify java version project should run on -->
+		<java.version> 1.8 </java.version>
+
+		<!-- specify maven compiler plugin version -->
+		<maven.compiler.plugin.version> 3.3 </maven.compiler.plugin.version>
+
+		<!-- maven surefire plugin version -->
+		<maven.surefire.plugin.version> 2.10 </maven.surefire.plugin.version>
+
+		<!-- maven surefire report plugin -->
+		<maven.surefire.report.plugin.version>2.7.2 </maven.surefire.report.plugin.version>
+
+		<!-- project version -->
+		<vassar.version>1.0-SNAPSHOT</vassar.version>
+
+		<!-- common lang version -->
+		<common.lang.version>2.4</common.lang.version>
+
+		<spring-framework.version>5.0.2.RELEASE</spring-framework.version>
+
+	</properties>
+
+	<dependencies>
+		<!-- Spring and Transactions -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>${junit.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-rest-webmvc</artifactId>
+			<version>3.0.1.RELEASE</version>
+		</dependency>
+	</dependencies>
+
+
+	<build>
+		<plugins>
+			<!-- any other plugins -->
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>2.1.5.RELEASE</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>repackage</goal>
+						</goals>
+						<configuration>
+							<classifier>exec</classifier>
+							<source>1.8</source>
+							<target>1.8</target>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>${maven.compiler.plugin.version}</version>
+				<configuration>
+					<source>${java.version}</source>
+					<target>${java.version}</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-report-plugin</artifactId>
+				<version>${maven.surefire.report.plugin.version}</version>
+				<configuration>
+					<aggregate>true</aggregate>
+				</configuration>
+				<executions>
+					<execution>
+						<phase>test</phase>
+						<goals>
+							<goal>report</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>
