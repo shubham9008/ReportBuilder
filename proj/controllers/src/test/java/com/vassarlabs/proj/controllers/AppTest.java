@@ -1,4 +1,4 @@
-package org.dsp;
+package com.vassarlabs.proj.controllers;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

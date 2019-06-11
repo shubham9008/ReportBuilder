@@ -25,5 +25,6 @@
     <module>repository</module>
     <module>dsp</module>
     <module>utils</module>
+    <module>controllers</module>
   </modules>
 </project>

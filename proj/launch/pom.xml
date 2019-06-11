@@ -55,26 +55,31 @@
 			<artifactId>vlib-common-utils</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>com.vassarlabs.proj.cassandra</groupId>
+			<artifactId>com-vassarlabs-proj-cassandra</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<name>com-vassarlabs-proj-launch</name>
 	<build>
-  <plugins>
-    <plugin>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-maven-plugin</artifactId>
-      <version>2.1.5.RELEASE</version>
-      <configuration>
-        <mainClass>com.vassarlabs.proj.launch.StudentHubLaunchService</mainClass>
-        <layout>ZIP</layout>
-      </configuration>
-      <executions>
-        <execution>
-          <goals>
-            <goal>repackage</goal>
-          </goals>
-        </execution>
-      </executions>
-    </plugin>
-  </plugins>
-</build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>2.1.5.RELEASE</version>
+				<configuration>
+					<mainClass>com.vassarlabs.proj.launch.StudentHubLaunchService</mainClass>
+					<layout>ZIP</layout>
+				</configuration>
+				<executions>
+					<execution>
+						<goals>
+							<goal>repackage</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
 </project>
