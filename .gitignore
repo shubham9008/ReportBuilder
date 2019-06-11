@@ -1,0 +1,13 @@
+**/bin/**
+**/target/**
+**/.classpath
+**/.settings
+**/.gitignore
+**/.project
+**/.gradle
+**/.idea
+**/*.orig
+**/*.iml
+**/*.log
+/.metadata/
+/.recommenders/
