@@ -24,6 +24,9 @@ public class CassandraConfiguration {
         private String keyspace;
 
         @Override
+        protected boolean getMetricsEnabled() { return false; }
+
+        @Override
         public String getContactPoints(){
             return (hostname != null) ? hostname : CassandraConnectionConstants.HOST_NAME;
         }

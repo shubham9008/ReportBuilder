@@ -8,13 +8,12 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.0.0.RELEASE</version>
+		<version>2.1.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
 	<groupId>com.vassarlabs.proj.launch</groupId>
 	<artifactId>com-vassarlabs-proj-launch</artifactId>
-	<version>1.0-SNAPSHOT</version>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -40,7 +39,7 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
+		<!--<dependency>
 			<groupId>com.vassarlabs.common.error</groupId>
 			<artifactId>vlib-common-error</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
@@ -54,32 +53,32 @@
 			<groupId>com.vassarlabs.common.utils</groupId>
 			<artifactId>vlib-common-utils</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency>-->
 		<dependency>
 			<groupId>com.vassarlabs.proj.cassandra</groupId>
 			<artifactId>com-vassarlabs-proj-cassandra</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	<name>com-vassarlabs-proj-launch</name>
 	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-				<version>2.1.5.RELEASE</version>
-				<configuration>
-					<mainClass>com.vassarlabs.proj.launch.StudentHubLaunchService</mainClass>
-					<layout>ZIP</layout>
-				</configuration>
-				<executions>
-					<execution>
-						<goals>
-							<goal>repackage</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
-		</plugins>
+<!--		<plugins>-->
+<!--			<plugin>-->
+<!--				<groupId>org.springframework.boot</groupId>-->
+<!--				<artifactId>spring-boot-maven-plugin</artifactId>-->
+<!--				<version>2.1.5.RELEASE</version>-->
+<!--				<configuration>-->
+<!--					<mainClass>com.vassarlabs.proj.launch.StudentHubLaunchService</mainClass>-->
+<!--					<layout>ZIP</layout>-->
+<!--				</configuration>-->
+<!--				<executions>-->
+<!--					<execution>-->
+<!--						<goals>-->
+<!--							<goal>repackage</goal>-->
+<!--						</goals>-->
+<!--					</execution>-->
+<!--				</executions>-->
+<!--			</plugin>-->
+<!--		</plugins>-->
 	</build>
 </project>
