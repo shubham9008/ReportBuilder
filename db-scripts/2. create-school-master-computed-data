@@ -1,0 +1,11 @@
+CREATE TABLE school_master_computed_data (
+ academic_year int,
+ entity_type text,
+ entity_id int,
+ dimension text,
+ schools_info text,
+ schools_infra_immovable text,
+ schools_infra_movable text, 
+ insert_ts bigint
+ PRIMARY KEY((academic_year, entity_type, entity_id), dimension)
+);

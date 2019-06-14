@@ -1,0 +1,15 @@
+CREATE TABLE school_master_raw_data (
+ academic_year int,
+ district_id bigint,
+ school_id bigint,
+ mandal_id int,
+ district_name text,
+ mandal_name text,
+ school_name text,
+ master_data text,
+ infra_data text
+ insert_ts bigint,
+ update_ts bigint,
+ deleted int
+ PRIMARY KEY((academic_year, district_id), school_id)
+);
