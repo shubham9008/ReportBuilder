@@ -1,3 +1,7 @@
 com/vassarlabs/proj/cassandra/CassandraConnectionConstants.class
+com/vassarlabs/proj/cassandra/table/SimpleTable.class
 com/vassarlabs/proj/cassandra/CassandraConfiguration.class
+com/vassarlabs/proj/cassandra/table/SpringbootCassandraApplication.class
+com/vassarlabs/proj/cassandra/table/CassandraController.class
 com/vassarlabs/proj/cassandra/CassandraConfiguration$CassandraConfig.class
+com/vassarlabs/proj/cassandra/table/CassandraRepository.class

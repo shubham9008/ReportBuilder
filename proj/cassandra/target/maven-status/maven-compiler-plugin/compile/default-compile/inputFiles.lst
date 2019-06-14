@@ -1,2 +1,6 @@
-/home/nitish/projects/work/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/CassandraConnectionConstants.java
-/home/nitish/projects/work/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/CassandraConfiguration.java
+/home/vassar/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/CassandraConnectionConstants.java
+/home/vassar/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/SpringbootCassandraApplication.java
+/home/vassar/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/table/CassandraRepository.java
+/home/vassar/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/table/CassandraController.java
+/home/vassar/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/CassandraConfiguration.java
+/home/vassar/Student-Hub/proj/cassandra/src/main/java/com/vassarlabs/proj/cassandra/table/SimpleTable.java
