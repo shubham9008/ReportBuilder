@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform/common/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform/fileupload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform/fileupload/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform/fileupload/impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform/fileupload/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod/platform/fileupload/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/cassandra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/dsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/launch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/location" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/servers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj/web" charset="UTF-8" />
+  </component>
+</project>

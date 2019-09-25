@@ -1,0 +1,12 @@
+com/vassarlabs/ng/proj/sw/elasticsearch/api/SourceDocument.class
+com/vassarlabs/ng/proj/sw/elasticsearch/config/ElasticSearchConfig.class
+com/vassarlabs/ng/proj/sw/elasticsearch/service/ElasticSearchService.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponse.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/ScriptQuery.class
+com/vassarlabs/ng/proj/sw/elasticsearch/config/ElasticSearchConfigProperties.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/AggregateQuery.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/SWASResult.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/AggregateDocument.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponseFactory.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/SearchQuery.class
+com/vassarlabs/ng/proj/sw/elasticsearch/api/Query.class

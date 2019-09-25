@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com-vassarlabs-studenthub-proj-web:war">
+    <output-path>$PROJECT_DIR$/proj/web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>com-vassarlabs-studenthub-proj-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="com-vassarlabs-studenthub-proj-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="com-vassarlabs-studenthub-proj-web:war exploded" />
+    </root>
+  </artifact>
+</component>

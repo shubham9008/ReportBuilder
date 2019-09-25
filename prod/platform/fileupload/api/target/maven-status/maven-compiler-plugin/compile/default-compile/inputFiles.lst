@@ -1,0 +1,12 @@
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/pojo/api/IFileUploadResult.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/filewriter/pojo/api/IFileDataList.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/pojo/api/IFileUploadDetails.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/filereader/pojo/api/IFileReaderDetails.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/filereader/service/api/ICSVFileReaderService.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/dsp/api/IFileUploadDSP.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/aspect/api/IFileUploadAspect.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/event/api/IFileUploadEvent.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/service/api/IFileUploadService.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/filewriter/pojo/api/IFileWriterDetails.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/pojo/api/IFileDetails.java
+/home/shubham-vassar/shubham/Student-Hub/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/filewriter/service/api/ICSVFileWriterService.java

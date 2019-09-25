@@ -1,0 +1,14 @@
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/AggregateQuery.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponseFactory.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/SourceDocument.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/config/ElasticSearchConfig.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/SearchQuery.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/ElasticSearchService.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/controller/ElasticSearchController.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/config/ElasticSearchConfigProperties.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/Test.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponse.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/SWASResult.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/ScriptQuery.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/Query.java
+/home/shubham-vassar/shubhamwork/Student-Hub/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/AggregateDocument.java

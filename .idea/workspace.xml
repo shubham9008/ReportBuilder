@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ea635e-a490-4d79-81ad-cdfd03677582" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/proj/es/ng-proj-sw-es.iml" beforeDir="false" afterPath="$PROJECT_DIR$/proj/es/ng-proj-sw-es.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proj/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/proj/location/target/" />
+    <ignored path="$PROJECT_DIR$/proj/servers/target/" />
+    <ignored path="$PROJECT_DIR$/proj/utils/target/" />
+    <ignored path="$PROJECT_DIR$/proj/dsp/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/proj/cassandra/target/" />
+    <ignored path="$PROJECT_DIR$/proj/target/" />
+    <ignored path="$PROJECT_DIR$/proj/dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/prod/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/fileupload/impl/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/fileupload/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/fileupload/service/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/fileupload/api/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/fileupload/utils/target/" />
+    <ignored path="$PROJECT_DIR$/proj/launch/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/dsp/api/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/logging/api/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/init/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/utils/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/logging/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/logging/impl/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/dsp/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/init/impl/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/logging/service/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/init/api/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/dsp/impl/target/" />
+    <ignored path="$PROJECT_DIR$/prod/common/init/service/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/common/target/" />
+    <ignored path="$PROJECT_DIR$/prod/platform/common/utils/target/" />
+    <ignored path="$PROJECT_DIR$/proj/web/target/" />
+    <ignored path="$PROJECT_DIR$/proj/repository/target/" />
+    <ignored path="$PROJECT_DIR$/proj/es/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj/es/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/controller/ElasticSearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj/launch/src/main/java/com/vassarlabs/proj/launch/StudentHubLaunchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/SWASResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/ElasticSearchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1946">
+              <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getBoolQueryBuilder#0;class#ElasticSearchService#0" />
+                <element signature="method#getSearchResult#0;class#ElasticSearchService#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.4.3/elasticsearch-6.4.3.jar!/org/elasticsearch/action/get/GetRequest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj/servers/.classpath">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj/launch/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="34" column="21" selection-start-line="21" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StudentHubLaunchService</find>
+      <find>LocationService</find>
+      <find>32811101</find>
+      <find>42811101</find>
+      <find>division_id</find>
+      <find>SchoolMasterRawDataFileUploadImpl</find>
+      <find>2015</find>
+      <find>academicYear</find>
+      <find>20</find>
+      <find>201920</find>
+      <find>SchoolMasterRawInfraDataFiveYear</find>
+      <find>medium1</find>
+      <find>medium</find>
+      <find>prevMedium</find>
+      <find>insertFilterMapping</find>
+      <find>MandalComplexMappingCrudService</find>
+      <find>getMandalIdList</find>
+      <find>getFilterMapping</find>
+      <find>FilterMapping</find>
+      <find>set</find>
+      <find>application</find>
+      <find>mandalComplexMappingCrudService</find>
+      <find>mandalMetaDataList</find>
+      <find>param</find>
+      <find>paramBased</find>
+      <find>com</find>
+      <find>GetRequest</find>
+      <find>getCompositeAggregations</find>
+      <find>compsite</find>
+      <find>CompositeAggregations</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>long</replace>
+      <replace>*.xml</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/db-scripts</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/excpetions/EmptyErrorObject.java" />
+        <option value="$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/excpetions/ErrorObject.java" />
+        <option value="$PROJECT_DIR$/prod/platform/common/utils/src/main/java/com/vassarlabs/common/utils/err/VLException.java" />
+        <option value="$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/excpetions/ErrorrObject.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/filereader/service/impl/FileUploadService.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/api/src/main/java/com/vassarlabs/common/fileupload/service/api/IFileUploadService.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/filereader/service/impl/CSVFileReaderService.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/SchoolMasterRawDataRepo.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/fileupload/config/impl/SchoolMasterRawDataFileUploadService.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/fileupload/config/impl/SchoolMasterRawDataJoinAndUploadService.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterAppendRawDataBinder.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/schoolMasterRawDataStudentCountBinder.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawDataStudentCountBinder.java" />
+        <option value="$PROJECT_DIR$/prod/platform/pom.xml" />
+        <option value="$PROJECT_DIR$/proj/servers/src/main/java/com/vassarlabs/proj/servers/OverviewDashboardServer.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/InfraData.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawDataBinder.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawDataFiveYears.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/ISchoolMasterRawDataRepo.java" />
+        <option value="$PROJECT_DIR$/db-scripts/computed_data" />
+        <option value="$PROJECT_DIR$/db-scripts/02-create-school-master-raw-data" />
+        <option value="$PROJECT_DIR$/proj/launch/src/main/java/com/vassarlabs/proj/launch/StudentHubLaunchService.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/MandalComplexMapping.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/SchoolMasterRawData.java" />
+        <option value="$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/excpetions/VLException.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawInfraDataFiveYear.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/fileupload/config/impl/SchoolInfraMasterRawDataFileUploadService.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/service/FilterMappingCrudService.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/ComputedSchoolScore.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/FilterMapping.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/ComputedSchoolScoreRepo.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/FilterMappingRepo.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/SchoolDetails.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/service/SchoolDetailsDataCrudService.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/SchoolDetailsRepo.java" />
+        <option value="$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/constants/LocationEntityConstants.java" />
+        <option value="$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/constants/LocationConstants.java" />
+        <option value="$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/constants/TimeConstant.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/MandalComplexMappingRepo.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/MandalComplexMapping.java" />
+        <option value="$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/service/MandalComplexMappingCrudService.java" />
+        <option value="$PROJECT_DIR$/proj/location/src/main/java/com/vassarlabs/proj/location/service/LocationService.java" />
+        <option value="$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/fileupload/config/impl/SchoolMasterRawDataFileUploadImpl.java" />
+        <option value="$PROJECT_DIR$/proj/pom.xml" />
+        <option value="$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponse.java" />
+        <option value="$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponseFactory.java" />
+        <option value="$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/SWASResult.java" />
+        <option value="$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/controller/ElasticSearchController.java" />
+        <option value="$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/Test.java" />
+        <option value="$PROJECT_DIR$/proj/es/pom.xml" />
+        <option value="$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/ElasticSearchService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="prod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="prod" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="sw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="sw" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="sw" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="sw" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="sw" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="ng" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="sw" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vassarlabs" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Hub" type="462c0819:PsiDirectoryNode" />
+              <item name="proj" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/ui/studenthub/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StudentHubLaunchService">
+    <configuration name="StudentHubLaunchService" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.vassarlabs.proj.launch.StudentHubLaunchService" />
+      <module name="com-vassarlabs-proj-launch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj/launch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (studenthub)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/ui/studenthub/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/ui/studenthub/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (studenthub)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringbootCassandraApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com-vassarlabs-proj-cassandra" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vassarlabs.proj.cassandra.table.SpringbootCassandraApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (studenthub)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/ui/studenthub/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.StudentHubLaunchService" />
+      <item itemvalue="JavaScript Debug.Angular Application (studenthub)" />
+      <item itemvalue="npm.Angular CLI Server (studenthub)" />
+      <item itemvalue="Protractor.E2E Tests (studenthub)" />
+      <item itemvalue="Spring Boot.SpringbootCassandraApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ea635e-a490-4d79-81ad-cdfd03677582" name="Default Changelist" comment="" />
+      <created>1562085106812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562085106812</updated>
+      <workItem from="1562085115725" duration="21164000" />
+      <workItem from="1564733253550" duration="17670000" />
+      <workItem from="1564976776838" duration="440000" />
+      <workItem from="1564980701138" duration="9055000" />
+      <workItem from="1564990157672" duration="48996000" />
+      <workItem from="1565115631248" duration="22826000" />
+      <workItem from="1565176866777" duration="5662000" />
+      <workItem from="1565242369058" duration="13061000" />
+      <workItem from="1565948443316" duration="1169000" />
+      <workItem from="1566197018470" duration="3123000" />
+      <workItem from="1566271928685" duration="8787000" />
+      <workItem from="1566359303496" duration="1656000" />
+      <workItem from="1566362983721" duration="2255000" />
+      <workItem from="1566366884880" duration="42735000" />
+      <workItem from="1566897578107" duration="9537000" />
+      <workItem from="1567059356738" duration="3542000" />
+      <workItem from="1567143179794" duration="4081000" />
+      <workItem from="1567487047204" duration="19330000" />
+      <workItem from="1567540387389" duration="3047000" />
+      <workItem from="1567573478914" duration="14768000" />
+      <workItem from="1567619560464" duration="5425000" />
+      <workItem from="1567660025969" duration="1240000" />
+      <workItem from="1567675208048" duration="1522000" />
+      <workItem from="1567693428421" duration="25427000" />
+      <workItem from="1567745767829" duration="1875000" />
+      <workItem from="1567749423365" duration="18611000" />
+      <workItem from="1567787030990" duration="4572000" />
+      <workItem from="1567838975955" duration="205000" />
+      <workItem from="1567840323923" duration="9518000" />
+      <workItem from="1568037096537" duration="91000" />
+      <workItem from="1568649989584" duration="3191000" />
+      <workItem from="1568715356339" duration="588000" />
+      <workItem from="1568895470432" duration="581000" />
+      <workItem from="1569230155851" duration="268000" />
+      <workItem from="1569325266556" duration="4600000" />
+      <workItem from="1569387760589" duration="5683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="336301000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.85667753" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.7345277" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007576" side_tool="true" weight="0.43648207" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49924242" weight="0.43648207" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3280303" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32954547" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.85667753" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.6058632" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007576" side_tool="true" weight="0.43648207" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49924242" weight="0.43648207" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3280303" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32954547" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/proj/location/src/main/java/com/vassarlabs/proj/location/service/LocationService.java</url>
+          <line>3300</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/prod/platform/fileupload/impl/src/main/java/com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawInfraDataFiveYear.java" />
+    <entry file="file://$PROJECT_DIR$/proj/location/src/main/java/com/vassarlabs/proj/location/service/LocationServiceAPSEACAS.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/ComputedSchoolScoreRepo.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/service/SchoolMasterComputedDataCrudService.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/ComputedSchoolScore.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/service/SchoolDetailsDataCrudService.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/SchoolDetailsRepo.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/SchoolDetails.java" />
+    <entry file="file://$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/constants/LocationEntityConstants.java" />
+    <entry file="file://$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/constants/LocationConstants.java" />
+    <entry file="file://$PROJECT_DIR$/proj/utils/src/main/java/com/vassarlabs/proj/utils/constants/TimeConstant.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/service/FilterMappingCrudService.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/FilterMappingRepo.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/FilterMapping.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/service/MandalComplexMappingCrudService.java" />
+    <entry file="file://$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/fileupload/config/impl/SchoolInfraMasterRawDataFileUploadService.java" />
+    <entry file="file://$PROJECT_DIR$/prod/platform/fileupload/service/src/main/java/com/vassarlabs/common/fileupload/config/impl/SchoolMasterRawDataFileUploadImpl.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/repo/MandalComplexMappingRepo.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dsp/src/main/java/com/vassarlabs/proj/dsp/pojo/MandalComplexMapping.java" />
+    <entry file="file://$PROJECT_DIR$/proj/cassandra/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/location/src/main/java/com/vassarlabs/proj/location/service/LocationService.java" />
+    <entry file="file://$PROJECT_DIR$/ui/ReportDownloader/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/studenthub/src/app/charts/charts.component.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/studenthub/src/app/filter/filter.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/proj/servers/src/main/java/com/vassarlabs/proj/servers/OverviewDashboardServer.java" />
+    <entry file="file://$PROJECT_DIR$/proj/dashboard/src/main/java/com/vassarlabs/proj/dashboard/service/SchoolOverviewDashboardService.java" />
+    <entry file="file://$PROJECT_DIR$/ui/ReportDownloader/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/ReportDownloader/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/studenthub/src/app/filter/filter.component.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/studenthub/src/app/card/card.component.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/studenthub/src/app/card/card.component.html" />
+    <entry file="file://$PROJECT_DIR$/ui/ReportDownloader/src/app/studentoverview/studentoverview.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark/src/main/scala/com/vassarlabs/spark/services/SchoolInfraComputationService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/cassandra/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/ng-proj-sw-es.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/ApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/config/ElasticSearchConfigProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/servers/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/launch/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="34" column="21" selection-start-line="21" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/api/SWASResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/launch/src/main/java/com/vassarlabs/proj/launch/StudentHubLaunchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/controller/ElasticSearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.4.3/elasticsearch-6.4.3.jar!/org/elasticsearch/action/get/GetRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.4.3/elasticsearch-6.4.3.jar!/org/elasticsearch/search/aggregations/AggregationBuilders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#8721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj/es/src/main/java/com/vassarlabs/ng/proj/sw/elasticsearch/service/ElasticSearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1946">
+          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getBoolQueryBuilder#0;class#ElasticSearchService#0" />
+            <element signature="method#getSearchResult#0;class#ElasticSearchService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com-vassarlabs-proj</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35859728" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

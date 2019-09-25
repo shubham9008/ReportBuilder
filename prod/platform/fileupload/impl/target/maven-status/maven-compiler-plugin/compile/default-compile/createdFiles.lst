@@ -1,0 +1,11 @@
+com/vassarlabs/common/fileupload/pojo/impl/FileUploadDetails.class
+com/vassarlabs/common/fileupload/dsp/impl/FileUploadDSPImpl.class
+com/vassarlabs/common/filewriter/pojo/impl/FileDataList.class
+com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawDataBinder.class
+com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawDataStudentCountBinder.class
+com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterAppendRawDataBinder.class
+com/vassarlabs/common/filereader/pojo/impl/FileReaderDetails.class
+com/vassarlabs/common/filewriter/pojo/impl/FileWriterDetails.class
+com/vassarlabs/common/fileupload/pojo/impl/SchoolMasterRawDataFiveYears.class
+com/vassarlabs/common/fileupload/pojo/impl/FileDetails.class
+com/vassarlabs/common/fileupload/pojo/impl/FileUploadResult.class

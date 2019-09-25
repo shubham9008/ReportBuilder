@@ -1,0 +1,12 @@
+com/vassarlabs/common/filereader/pojo/api/IFileReaderDetails.class
+com/vassarlabs/common/fileupload/pojo/api/IFileDetails.class
+com/vassarlabs/common/filewriter/pojo/api/IFileDataList.class
+com/vassarlabs/common/fileupload/event/api/IFileUploadEvent.class
+com/vassarlabs/common/fileupload/dsp/api/IFileUploadDSP.class
+com/vassarlabs/common/filereader/service/api/ICSVFileReaderService.class
+com/vassarlabs/common/filewriter/service/api/ICSVFileWriterService.class
+com/vassarlabs/common/fileupload/pojo/api/IFileUploadDetails.class
+com/vassarlabs/common/fileupload/aspect/api/IFileUploadAspect.class
+com/vassarlabs/common/fileupload/pojo/api/IFileUploadResult.class
+com/vassarlabs/common/fileupload/service/api/IFileUploadService.class
+com/vassarlabs/common/filewriter/pojo/api/IFileWriterDetails.class

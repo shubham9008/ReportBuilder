@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-vassarlabs-proj-repository" />
+        <module name="platform-fileupload-service (1)" />
+        <module name="com-vassarlabs-proj-cassandra" />
+        <module name="platform-fileupload-service (2)" />
+        <module name="com-vassarlabs-proj-utils" />
+        <module name="com-vassarlabs-proj-dashboard" />
+        <module name="com-vassarlabs-proj-dsp" />
+        <module name="ng-proj-sw-es" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-vassarlabs-prod" target="1.8" />
+      <module name="com-vassarlabs-prod-platform" target="1.8" />
+      <module name="com-vassarlabs-prod-platform-common" target="1.8" />
+      <module name="com-vassarlabs-prod-platform-common-utils" target="1.8" />
+      <module name="com-vassarlabs-prod-platform-fileupload" target="1.8" />
+      <module name="com-vassarlabs-prod-platform-fileupload-api" target="1.8" />
+      <module name="com-vassarlabs-prod-platform-fileupload-impl" target="1.8" />
+      <module name="com-vassarlabs-prod-platform-fileupload-service" target="1.8" />
+      <module name="com-vassarlabs-prod-platform-fileupload-utils" target="1.8" />
+      <module name="com-vassarlabs-proj" target="1.5" />
+      <module name="com-vassarlabs-proj-cassandra" target="1.8" />
+      <module name="com-vassarlabs-proj-dashboard" target="1.5" />
+      <module name="com-vassarlabs-proj-dsp" target="1.5" />
+      <module name="com-vassarlabs-proj-launch" target="1.8" />
+      <module name="com-vassarlabs-proj-location" target="1.5" />
+      <module name="com-vassarlabs-proj-repository" target="1.5" />
+      <module name="com-vassarlabs-proj-servers" target="1.8" />
+      <module name="com-vassarlabs-proj-utils" target="1.5" />
+      <module name="com-vassarlabs-studenthub-proj-web" target="1.5" />
+      <module name="ng-proj-sw-es" target="1.8" />
+      <module name="platform" target="1.5" />
+      <module name="platform-common" target="1.5" />
+      <module name="platform-common-dsp" target="1.5" />
+      <module name="platform-common-dsp-api" target="1.5" />
+      <module name="platform-common-dsp-impl" target="1.5" />
+      <module name="platform-common-init" target="1.5" />
+      <module name="platform-common-init-api" target="1.5" />
+      <module name="platform-common-init-impl" target="1.5" />
+      <module name="platform-common-init-service" target="1.5" />
+      <module name="platform-common-logging" target="1.5" />
+      <module name="platform-common-logging-api" target="1.5" />
+      <module name="platform-common-logging-impl" target="1.5" />
+      <module name="platform-common-logging-service" target="1.5" />
+      <module name="platform-common-utils" target="1.5" />
+      <module name="platform-fileupload" target="1.8" />
+      <module name="platform-fileupload-api" target="1.8" />
+      <module name="platform-fileupload-impl" target="1.8" />
+      <module name="platform-fileupload-service" target="1.8" />
+      <module name="platform-fileupload-service (1)" target="1.5" />
+      <module name="platform-fileupload-service (2)" target="1.5" />
+      <module name="platform-fileupload-utils" target="1.8" />
+      <module name="prod" target="1.5" />
+      <module name="root" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com-vassarlabs-proj-cassandra" options="-parameters" />
+      <module name="com-vassarlabs-proj-launch" options="-parameters" />
+      <module name="com-vassarlabs-proj-servers" options="-parameters" />
+      <module name="ng-proj-sw-es" options="-parameters" />
+    </option>
+  </component>
+</project>
