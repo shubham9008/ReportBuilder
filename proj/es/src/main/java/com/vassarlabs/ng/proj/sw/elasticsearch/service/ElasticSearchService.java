@@ -26,6 +26,8 @@ import org.elasticsearch.search.aggregations.bucket.composite.TermsValuesSourceB
 import org.elasticsearch.search.aggregations.metrics.sum.ParsedSum;
 import org.elasticsearch.search.builder.SearchSourceBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -34,7 +36,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-@Service
+
+@Repository
 public class ElasticSearchService {
 
     private static final ObjectMapper mapper = new ObjectMapper();

@@ -15,16 +15,13 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <start-class>com.vassarlabs.proj.launch.StudentHubLaunchService</start-class>
   </properties>
 
   <dependencies>
   </dependencies>
   <modules>
-    <module>cassandra</module>
-    <module>dashboard</module>
-    <module>repository</module>
-    <module>dsp</module>
-    <module>utils</module>
     <module>es</module>
+    <module>launch</module>
   </modules>
 </project>

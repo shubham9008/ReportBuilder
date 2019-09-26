@@ -4,10 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/proj/com-vassarlabs-proj.iml" filepath="$PROJECT_DIR$/proj/com-vassarlabs-proj.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj/cassandra/com-vassarlabs-proj-cassandra.iml" filepath="$PROJECT_DIR$/proj/cassandra/com-vassarlabs-proj-cassandra.iml" />
-      <module fileurl="file://$PROJECT_DIR$/proj/dashboard/com-vassarlabs-proj-dashboard.iml" filepath="$PROJECT_DIR$/proj/dashboard/com-vassarlabs-proj-dashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/proj/dsp/com-vassarlabs-proj-dsp.iml" filepath="$PROJECT_DIR$/proj/dsp/com-vassarlabs-proj-dsp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/proj/repository/com-vassarlabs-proj-repository.iml" filepath="$PROJECT_DIR$/proj/repository/com-vassarlabs-proj-repository.iml" />
-      <module fileurl="file://$PROJECT_DIR$/proj/utils/com-vassarlabs-proj-utils.iml" filepath="$PROJECT_DIR$/proj/utils/com-vassarlabs-proj-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj/launch/com-vassarlabs-proj-launch.iml" filepath="$PROJECT_DIR$/proj/launch/com-vassarlabs-proj-launch.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj/es/ng-proj-sw-es.iml" filepath="$PROJECT_DIR$/proj/es/ng-proj-sw-es.iml" />
       <module fileurl="file://$PROJECT_DIR$/prod/platform/fileupload/service/platform-fileupload-service (1).iml" filepath="$PROJECT_DIR$/prod/platform/fileupload/service/platform-fileupload-service (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/prod/platform/fileupload/utils/platform-fileupload-service (2).iml" filepath="$PROJECT_DIR$/prod/platform/fileupload/utils/platform-fileupload-service (2).iml" />

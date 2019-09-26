@@ -39,26 +39,32 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+        <dependency>
+            <groupId>com.vassarlabs.elasticsearch</groupId>
+            <artifactId>com-vassarlabs-elasticsearch</artifactId>
+            <version>2.1.5.RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <!--<dependency>
+            <groupId>com.vassarlabs.common.error</groupId>
+            <artifactId>vlib-common-error</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.vassarlabs.common.logging</groupId>
+            <artifactId>vlib-common-logging</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.vassarlabs.common.utils</groupId>
+            <artifactId>vlib-common-utils</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>-->
 		<!--<dependency>
-			<groupId>com.vassarlabs.common.error</groupId>
-			<artifactId>vlib-common-error</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>com.vassarlabs.common.logging</groupId>
-			<artifactId>vlib-common-logging</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>com.vassarlabs.common.utils</groupId>
-			<artifactId>vlib-common-utils</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>-->
-		<dependency>
 			<groupId>com.vassarlabs.proj.cassandra</groupId>
 			<artifactId>com-vassarlabs-proj-cassandra</artifactId>
 			<version>1.0-SNAPSHOT</version>
-		</dependency>
+		</dependency>-->
 	</dependencies>
 	<name>com-vassarlabs-proj-launch</name>
 	<build>

@@ -6,13 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com-vassarlabs-proj-repository" />
         <module name="platform-fileupload-service (1)" />
         <module name="com-vassarlabs-proj-cassandra" />
         <module name="platform-fileupload-service (2)" />
-        <module name="com-vassarlabs-proj-utils" />
-        <module name="com-vassarlabs-proj-dashboard" />
-        <module name="com-vassarlabs-proj-dsp" />
+        <module name="com-vassarlabs-proj-launch" />
         <module name="ng-proj-sw-es" />
       </profile>
     </annotationProcessing>

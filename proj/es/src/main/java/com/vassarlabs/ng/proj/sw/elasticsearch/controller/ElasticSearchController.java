@@ -1,4 +1,3 @@
-/*
 package com.vassarlabs.ng.proj.sw.elasticsearch.controller;
 
 
@@ -30,6 +29,15 @@ public class ElasticSearchController {
 
         return ApiResponseFactory.createErrorResponse(500, "Could not index data due to internal server error!");
     }
+
+    @RequestMapping(value = "",method = RequestMethod.POST)
+    @ResponseBody
+    public String testmethod()
+    {
+      String x="hello";
+      return x;
+    }
+
 
     @RequestMapping(value = "es/bulk/", method = RequestMethod.POST)
     @ResponseBody
@@ -69,4 +77,3 @@ public class ElasticSearchController {
 
 
 }
-*/
